@@ -6,7 +6,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1coll4s&theme=dracula&hide_border=false&&layout=compact"/>
     
 [![social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nicollasrd)
-[![social](https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" )](https://facebook.com/NicollasBaumhart)
+[![social](https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/NicollasBaumhart)
 <a href = "mailto:nicollasrichardlacerda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ### Tecnologias que eu uso no meu dia a dia 
 
